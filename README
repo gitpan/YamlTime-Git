@@ -5,7 +5,7 @@ SYNOPSIS
         > yt commit     # Add and commit all changes to the YamlTime data store
         > yt push       # Push changes to the upstream repo
 
-SEE
+SEE ALSO
     *   YamlTime
 
 AUTHOR
