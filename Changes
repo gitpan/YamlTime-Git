@@ -1,3 +1,6 @@
+0.08 Sat Aug 16 15:52:06 PDT 2014
+ - Remove versions from module use
+
 0.07 Sat Aug 16 15:43:48 PDT 2014
  - Remove 'use 5.x.x' from code
 
