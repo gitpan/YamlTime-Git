@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/yamltime-git-pm/issues
   homepage: https://github.com/ingydotnet/yamltime-git-pm
   repository: https://github.com/ingydotnet/yamltime-git-pm.git
-version: '0.04'
+version: '0.05'
