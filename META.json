@@ -42,15 +42,15 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/ingydotnet/yamltime-extension-git-pm/issues"
+         "web" : "https://github.com/ingydotnet/yamltime-git-pm/issues"
       },
-      "homepage" : "https://github.com/ingydotnet/yamltime-extension-git-pm",
+      "homepage" : "https://github.com/ingydotnet/yamltime-git-pm",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/ingydotnet/yamltime-extension-git-pm.git",
-         "web" : "https://github.com/ingydotnet/yamltime-extension-git-pm"
+         "url" : "https://github.com/ingydotnet/yamltime-git-pm.git",
+         "web" : "https://github.com/ingydotnet/yamltime-git-pm"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
 
